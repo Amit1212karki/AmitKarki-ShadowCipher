@@ -23,6 +23,7 @@ aiming to build seamless web experiences.
 - Planning to build projects that combine Python with IoT for automation and smart devices in the future.
 
 🤝 **Let’s Collaborate**
+
 I'm always open to collaborating on open-source projects, especially those involving Python, IoT, or full-stack web development.
 If you have exciting ideas or are looking for a collaborator, feel free to reach out—I’d love to hear from you!
 
