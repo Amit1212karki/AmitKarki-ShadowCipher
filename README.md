@@ -2,6 +2,7 @@
 👋 Hi, I'm Amit Karki!
 
 🔧 **Programmer | Tech Enthusiast | Lifelong Learner**  
+
 🎓 **BSc (Hons) Computing, Itahari International College**
 
 💻 **Currently Working with Django, Laravel, Aspiring to Excel in Core Python IoT, and Web Development**
