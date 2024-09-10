@@ -3,6 +3,7 @@
 
 🔧 **Programmer | Tech Enthusiast | Lifelong Learner**  
 🎓 **BSc (Hons) Computing, Itahari International College**
+
 💻 **Currently Working with Django, Laravel, Aspiring to Excel in Core Python IoT, and Web Development**
 
 I'm passionate about creating innovative solutions bridging the software and hardware gap. With a strong foundation in Core Python, IoT,
