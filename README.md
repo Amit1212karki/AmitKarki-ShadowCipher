@@ -2,19 +2,18 @@
 👋 Hi, I'm Amit Karki!
 
 🔧 **Programmer | Tech Enthusiast | Lifelong Learner**  
-🎓 **BHC Honours Graduate**  
-💻 **Currently Working with Django, Aspiring to Excel in Core Python**
-💻 **Exploring the Intersection of Core Python, IoT, and Web Development**
+🎓 **BSc (Hons) Computing, Itahari International College**
+💻 **Currently Working with Django, Laravel, Aspiring to Excel in Core Python IoT, and Web Development**
 
-I'm passionate about creating innovative solutions that bridge the gap between software and hardware. With a strong foundation in Core Python, IoT,
-and Laravel PHP, I’m diving deep into the world of backend and frontend technologies. Currently, I'm expanding my skills with React JavaScript and Axios, 
+I'm passionate about creating innovative solutions bridging the software and hardware gap. With a strong foundation in Core Python, IoT,
+and Laravel PHP, I’m diving deep into the world of backend and front-end technologies. Currently, I'm expanding my skills with React, JavaScript, and Axios, 
 aiming to build seamless web experiences.
 
 🌟 **Areas of Expertise**
-- Django web development
-- Backend development using Laravel PHP
-- React JavaScript and Axios for frontend integration
-- Aspiring to specialize in Core Python and IoT in the future
+- Django web development.
+- Backend development using Laravel PHP.
+- Frontend development with JavaScript, Tailwind CSS, HTML, and CSS.
+- Aspiring to specialize in Core Python, IoT, React, JavaScript/Axios for frontend integration.
 
 🔭 **What I’m Working On**
 - Learning and experimenting with React and Axios for modern web applications.
