@@ -1,7 +1,7 @@
 # AmitKarki@ShadowCipher
 👋 Hi, I'm Amit Karki!
 
-🔧 **Programmer | Tech Enthusiast | Lifelong Learner**  
+🔧 **Programmer | Tech Enthusiast | Lifelong Learner**   
 
 🎓 **BSc (Hons) Computing, Itahari International College**
 
@@ -26,6 +26,8 @@ aiming to build seamless web experiences.
 
 I'm always open to collaborating on open-source projects, especially those involving Python, IoT, or full-stack web development.
 If you have exciting ideas or are looking for a collaborator, feel free to reach out—I’d love to hear from you!
+
+**Rider**
 
 📬 **How to Reach Me**
 
